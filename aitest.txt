@@ -1,1 +1,1 @@
-printf("tlqkf")
+print("hello fucking world")
