@@ -1,5 +1,1 @@
-아니 시발련이 이건 또 왜이럼
-
-tlqkf
-qltkfkdtl
-tlqkc
+printf("tlqkf")
